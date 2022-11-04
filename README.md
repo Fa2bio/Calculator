@@ -31,4 +31,5 @@ A back-end and front-end project of a simple calculator developed using Java.
 ## <a name="run-application"></a>Run Application
 
 - Run Calculator.jar or
-- After meeting the requirements and installation, run the main method as a java project in Calculator.jav at src\com\github\Fa2bio\Calculator\vision 
+- After meeting the requirements and installation, run the main method as a java project in 
+Calculator.java at src\com\github\Fa2bio\Calculator\vision 
