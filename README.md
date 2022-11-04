@@ -9,6 +9,7 @@
 * [Technologies Used](#technologies)
 * [Installation](#installation)
 * [Run Application](#run-application)
+* [Preview](#preview)
 
 ## <a name="what-is-it"></a>What is it?
 
@@ -33,3 +34,7 @@ A back-end and front-end project of a simple calculator developed using Java.
 - Run Calculator.jar or
 - After meeting the requirements and installation, run the main method as a java project in 
 Calculator.java at src\com\github\Fa2bio\Calculator\vision 
+
+## <a name="preview"></a>Preview
+
+![calculator](https://user-images.githubusercontent.com/41877566/200026510-41e4f27b-1100-48fe-92f8-8d55cc5a15a2.png)
