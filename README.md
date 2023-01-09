@@ -27,7 +27,7 @@ A back-end and front-end project of a simple calculator developed using Java.
 ## <a name="installation"></a>Installation
 
 - Clone the repository for your device;
-- Run Calculator.jar OR;
+- Run Calculator.jar in the Utils folder, OR;
 - Import it as a Project From File System in your IDE...
 
 ## <a name="run-application"></a>Run Application
